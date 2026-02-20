@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Offboarding.web", "Employee_Offboarding.web\Employee_Offboarding.web.csproj", "{C8D30268-6939-404D-A4CB-19BB48CA1F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Offboarding.Extentions", "Employee_Offboarding.Extentions\Employee_Offboarding.Extentions.csproj", "{BA5BD52E-403C-4AB4-8B3D-6C6156F23EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Offboarding.Application", "Employee_Offboarding.Application\Employee_Offboarding.Application.csproj", "{9133676B-52D3-4F4F-B243-7D2265C9E041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Offboarding.Domain", "Employee_Offboarding.Domain\Employee_Offboarding.Domain.csproj", "{01962469-D4AC-4D26-8C49-91D82289D43F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Offboarding.Infrastructure", "Employee_Offboarding.Infrastructure\Employee_Offboarding.Infrastructure.csproj", "{C933CA59-0A44-4C8F-9176-DD1B98CAD521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D30268-6939-404D-A4CB-19BB48CA1F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D30268-6939-404D-A4CB-19BB48CA1F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D30268-6939-404D-A4CB-19BB48CA1F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D30268-6939-404D-A4CB-19BB48CA1F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5BD52E-403C-4AB4-8B3D-6C6156F23EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5BD52E-403C-4AB4-8B3D-6C6156F23EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5BD52E-403C-4AB4-8B3D-6C6156F23EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5BD52E-403C-4AB4-8B3D-6C6156F23EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9133676B-52D3-4F4F-B243-7D2265C9E041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9133676B-52D3-4F4F-B243-7D2265C9E041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9133676B-52D3-4F4F-B243-7D2265C9E041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9133676B-52D3-4F4F-B243-7D2265C9E041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01962469-D4AC-4D26-8C49-91D82289D43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01962469-D4AC-4D26-8C49-91D82289D43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01962469-D4AC-4D26-8C49-91D82289D43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01962469-D4AC-4D26-8C49-91D82289D43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C933CA59-0A44-4C8F-9176-DD1B98CAD521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C933CA59-0A44-4C8F-9176-DD1B98CAD521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C933CA59-0A44-4C8F-9176-DD1B98CAD521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C933CA59-0A44-4C8F-9176-DD1B98CAD521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E8FD6FD-C822-4FB0-A994-A24E6E8A3A52}
+	EndGlobalSection
+EndGlobal
