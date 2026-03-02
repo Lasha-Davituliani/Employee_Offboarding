@@ -2,7 +2,7 @@
 
 namespace Employee_Offboarding.Application.Abstractions.Repositories
 {
-    internal interface IClarenceFormDepartmentRepository : IBaseRepository<ClearenceFormDepartment>
+    public interface IClarenceFormDepartmentRepository : IBaseRepository<ClearenceFormDepartment>
     {
     }
 }
