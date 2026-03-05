@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstractions\Services\" />
-    <Folder Include="Templates\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Employee_Offboarding.Domain\Employee_Offboarding.Domain.csproj" />
   </ItemGroup>
 
