@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Employee_Offboarding.Application\Employee_Offboarding.Application.csproj" />
+    <ProjectReference Include="..\Employee_Offboarding.Domain\Employee_Offboarding.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

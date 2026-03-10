@@ -2,7 +2,7 @@
 
 namespace Employee_Offboarding.Application.DTOs.Pdf
 {
-    public sealed class PdfFromDataDto
+    public sealed class PdfFormDataDto
     {
         public int Id { get; set; }
         public string EmployeeFullName { get; set; } = string.Empty;
