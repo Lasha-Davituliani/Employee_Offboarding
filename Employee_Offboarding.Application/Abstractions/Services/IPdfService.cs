@@ -4,6 +4,6 @@ namespace Employee_Offboarding.Application.Abstractions.Services
 {
     public interface IPdfService
     {
-        byte[] GeneratePdf(PdfFromDataDto formData);
+        byte[] GeneratePdf(PdfFormDataDto formData);
     }
 }
