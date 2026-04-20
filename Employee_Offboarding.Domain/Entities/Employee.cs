@@ -16,7 +16,7 @@
         public ServiceCenter? ServiceCenter { get; set; }
         public ICollection<ClearenceForm> ClearenceForms { get; set; } = new List<ClearenceForm>();
         public string? PositionTitle { get; set; }
-        public string? DirectManager { get; set; }
+        public string? DirectManagerName { get; set; }
         public string? DirectManagerEmail { get; set; }
     }
 }
